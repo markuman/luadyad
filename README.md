@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/luadyad
+bye bye microsoft. please visit https://git.osuv.de/m/luadyad
